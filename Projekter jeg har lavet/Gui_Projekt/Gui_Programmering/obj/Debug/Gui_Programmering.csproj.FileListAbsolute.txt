@@ -1,0 +1,34 @@
+C:\Users\S3389\Desktop\Praktikant lavet opgaver\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\Gui_Programmering.csprojAssemblyReference.cache
+C:\Users\S3389\Desktop\Praktikant lavet opgaver\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\MainWindow.g.cs
+C:\Users\S3389\Desktop\Praktikant lavet opgaver\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\SubWindow.g.cs
+C:\Users\S3389\Desktop\Praktikant lavet opgaver\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\App.g.cs
+C:\Users\S3389\Desktop\Praktikant lavet opgaver\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\Gui_Programmering_MarkupCompile.cache
+C:\Users\S3389\Desktop\Praktikant lavet opgaver\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\Gui_Programmering_MarkupCompile.lref
+C:\Users\S3389\Desktop\Praktikant lavet opgaver\GUIProgrammering\Gui_Projekt\Gui_Programmering\bin\Debug\Gui_Programmering.exe.config
+C:\Users\S3389\Desktop\Praktikant lavet opgaver\GUIProgrammering\Gui_Projekt\Gui_Programmering\bin\Debug\Gui_Programmering.exe
+C:\Users\S3389\Desktop\Praktikant lavet opgaver\GUIProgrammering\Gui_Projekt\Gui_Programmering\bin\Debug\Gui_Programmering.pdb
+C:\Users\S3389\Desktop\Praktikant lavet opgaver\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\MainWindow.baml
+C:\Users\S3389\Desktop\Praktikant lavet opgaver\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\SubWindow.baml
+C:\Users\S3389\Desktop\Praktikant lavet opgaver\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\Gui_Programmering.g.resources
+C:\Users\S3389\Desktop\Praktikant lavet opgaver\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\Gui_Programmering.Properties.Resources.resources
+C:\Users\S3389\Desktop\Praktikant lavet opgaver\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\Gui_Programmering.csproj.GenerateResource.cache
+C:\Users\S3389\Desktop\Praktikant lavet opgaver\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\Gui_Programmering.csproj.CoreCompileInputs.cache
+C:\Users\S3389\Desktop\Praktikant lavet opgaver\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\Gui_Programmering.exe
+C:\Users\S3389\Desktop\Praktikant lavet opgaver\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\Gui_Programmering.pdb
+C:\Users\kaspe\Desktop\Grundfos\GUIProgrammering\Gui_Projekt\Gui_Programmering\bin\Debug\Gui_Programmering.exe.config
+C:\Users\kaspe\Desktop\Grundfos\GUIProgrammering\Gui_Projekt\Gui_Programmering\bin\Debug\Gui_Programmering.exe
+C:\Users\kaspe\Desktop\Grundfos\GUIProgrammering\Gui_Projekt\Gui_Programmering\bin\Debug\Gui_Programmering.pdb
+C:\Users\kaspe\Desktop\Grundfos\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\Gui_Programmering.csprojAssemblyReference.cache
+C:\Users\kaspe\Desktop\Grundfos\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\MainWindow.g.cs
+C:\Users\kaspe\Desktop\Grundfos\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\SubWindow.g.cs
+C:\Users\kaspe\Desktop\Grundfos\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\App.g.cs
+C:\Users\kaspe\Desktop\Grundfos\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\Gui_Programmering_MarkupCompile.cache
+C:\Users\kaspe\Desktop\Grundfos\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\Gui_Programmering_MarkupCompile.lref
+C:\Users\kaspe\Desktop\Grundfos\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\MainWindow.baml
+C:\Users\kaspe\Desktop\Grundfos\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\SubWindow.baml
+C:\Users\kaspe\Desktop\Grundfos\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\Gui_Programmering.g.resources
+C:\Users\kaspe\Desktop\Grundfos\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\Gui_Programmering.Properties.Resources.resources
+C:\Users\kaspe\Desktop\Grundfos\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\Gui_Programmering.csproj.GenerateResource.cache
+C:\Users\kaspe\Desktop\Grundfos\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\Gui_Programmering.csproj.CoreCompileInputs.cache
+C:\Users\kaspe\Desktop\Grundfos\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\Gui_Programmering.exe
+C:\Users\kaspe\Desktop\Grundfos\GUIProgrammering\Gui_Projekt\Gui_Programmering\obj\Debug\Gui_Programmering.pdb

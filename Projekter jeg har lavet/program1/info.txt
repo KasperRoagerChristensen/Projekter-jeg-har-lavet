@@ -1,0 +1,2 @@
+programmet er lavet med processing 3.5.4
+koden kan godt åbnes i en anden editor.
