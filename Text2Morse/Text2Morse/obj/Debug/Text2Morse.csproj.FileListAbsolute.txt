@@ -1,0 +1,15 @@
+C:\Users\kaspe\source\repos\Text2Morse\Text2Morse\bin\Debug\Text2Morse.exe.config
+C:\Users\kaspe\source\repos\Text2Morse\Text2Morse\bin\Debug\Text2Morse.exe
+C:\Users\kaspe\source\repos\Text2Morse\Text2Morse\bin\Debug\Text2Morse.pdb
+C:\Users\kaspe\source\repos\Text2Morse\Text2Morse\obj\Debug\Text2Morse.csprojAssemblyReference.cache
+C:\Users\kaspe\source\repos\Text2Morse\Text2Morse\obj\Debug\MainWindow.g.cs
+C:\Users\kaspe\source\repos\Text2Morse\Text2Morse\obj\Debug\App.g.cs
+C:\Users\kaspe\source\repos\Text2Morse\Text2Morse\obj\Debug\Text2Morse_MarkupCompile.cache
+C:\Users\kaspe\source\repos\Text2Morse\Text2Morse\obj\Debug\Text2Morse_MarkupCompile.lref
+C:\Users\kaspe\source\repos\Text2Morse\Text2Morse\obj\Debug\MainWindow.baml
+C:\Users\kaspe\source\repos\Text2Morse\Text2Morse\obj\Debug\Text2Morse.g.resources
+C:\Users\kaspe\source\repos\Text2Morse\Text2Morse\obj\Debug\Text2Morse.Properties.Resources.resources
+C:\Users\kaspe\source\repos\Text2Morse\Text2Morse\obj\Debug\Text2Morse.csproj.GenerateResource.cache
+C:\Users\kaspe\source\repos\Text2Morse\Text2Morse\obj\Debug\Text2Morse.csproj.CoreCompileInputs.cache
+C:\Users\kaspe\source\repos\Text2Morse\Text2Morse\obj\Debug\Text2Morse.exe
+C:\Users\kaspe\source\repos\Text2Morse\Text2Morse\obj\Debug\Text2Morse.pdb

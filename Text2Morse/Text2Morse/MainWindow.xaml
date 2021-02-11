@@ -1,0 +1,18 @@
+﻿<Window x:Class="Text2Morse.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Text2Morse"
+        mc:Ignorable="d"
+        Title="Text2Morse" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="NormalText" HorizontalAlignment="Left" Height="175" Margin="10,30,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="711"/>
+        <TextBox x:Name="MorseText" HorizontalAlignment="Left" Height="175" Margin="10,235,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="711"/>
+        <Label Content="Normal text" HorizontalAlignment="Left" Margin="10,4,0,0" VerticalAlignment="Top"/>
+        <Label Content="Morse code" HorizontalAlignment="Left" Margin="10,210,0,0" VerticalAlignment="Top"/>
+        <Button Content="Convert to morse" HorizontalAlignment="Left" Margin="606,211,0,0" VerticalAlignment="Top" Width="115" Click="Convert_To_Morse"/>
+        <Button Content="Convert to text" HorizontalAlignment="Left" Margin="478,211,0,0" VerticalAlignment="Top" Width="123" Click="Convert_To_Text"/>
+
+    </Grid>
+</Window>
